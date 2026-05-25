@@ -38,7 +38,7 @@ pip install pdfplumber
 
 ## Usage
 
-1. Drop your portfolio PDF files into the `pdfs/` folder.
+1. Create a `pdfs/` folder in the root directory then drop your PDF files into said folder.
 2. Run:
 
 ```bash
